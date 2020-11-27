@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55896816286",
+    "firebase_url": "https://covidapp-74ced.firebaseio.com",
+    "project_id": "covidapp-74ced",
+    "storage_bucket": "covidapp-74ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55896816286:android:82ff4e30abe8d6b5d3198f",
+        "android_client_info": {
+          "package_name": "com.example.dcc_protipo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55896816286-depfeunqenffjctoo1hl78n23rt866hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfRkgFCpAEETJXWOnan7L-PkuN5VAr6xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55896816286-depfeunqenffjctoo1hl78n23rt866hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

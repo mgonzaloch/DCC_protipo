@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DCC_protipo</string>
+
+    //general
+    <string name="title">¿Donde lo consigo?</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="contra">contraseña</string>
+    <string name="baceptar">Aceptar</string>
+    <string name="bcancelar">Cancelar</string>
+
+    //login main-activity
+    <string name="inicia">Inicia seción</string>
+    <string name="recuerda">Recuerdame</string>
+    <string name="aregistro">no tiene cuenta Registrate</string>
+    <string name="registro">Registrarse</string>
+
+    //registro
+    <string name="terminos">Asepta los terminos y condiciónes</string>
+    <string name="cterminos">Acepto</string>
+    <string name="confirmar">confirmar contraseña</string>
+
+    //menu main_menu
+    <string name="tBusqueda">Busqueda</string>
+    <string name="tmapa">Mapa</string>
+    <string name="tEmpresa">Configuración</string>
+    <string name="tperfil">perfil</string>
+
+    //Detalles
+    <string name="información">información</string>
+    <string name="opiniones">opiniones</string>
+
+    //Detalles Productos
+    <string name="mensaje">Mensaje</string>
+    <string name="llamar">llamar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

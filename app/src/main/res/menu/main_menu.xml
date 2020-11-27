@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Clinica"
+        android:title="@string/tBusqueda"
+        android:icon="@drawable/ic_add_shopping_cart_black_24dp"/>
+    <item android:id="@+id/Mapa"
+        android:title="@string/tmapa"
+        android:icon="@drawable/ic_pin_drop_black_24dp"/>
+    <item android:id="@+id/Empresa"
+        android:title="@string/tEmpresa"
+        android:icon="@drawable/ic_local_hospital_black_24dp"/>
+    <item android:id="@+id/Perfil"
+        android:title="@string/tperfil"
+        android:icon="@drawable/ic_baseline_account_circle_24"/>
+
+</menu>
